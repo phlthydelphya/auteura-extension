@@ -2,11 +2,11 @@
 
 *Effective October 11, 2026*
 
-This policy covers the Auteura Chrome extension. The short version: Auteura doesn’t collect, send, sell, or share any of your data. Everything it does happens on your device.
+This policy covers the Auteura Chrome extension. The short version: Auteura doesn’t send, sell, or share any of your data. Everything it does happens on your device.
 
-## What Auteura collects
+## What leaves your device
 
-Nothing. Auteura has no servers, no accounts, no analytics, no ads, and no tracking. The extension makes no network requests of its own, and its pages run under a content security policy that only lets them load the extension’s own files.
+Nothing. Auteura handles two kinds of data, and only on your device: the video from your camera (see **Your camera**) and the site names of tabs using the virtual camera (see **What’s stored on your device**). Auteura has no servers, no accounts, no analytics, no ads, and no tracking. The extension makes no network requests of its own, and its pages run under a content security policy that only lets them load the extension’s own files.
 
 ## Your camera
 
@@ -18,7 +18,7 @@ Person detection (for background blur, Follow me, portrait light, and skin smoot
 
 ## Websites you visit
 
-So that sites can see the virtual camera in their camera list, Auteura adds a small script to `https://` pages (and `localhost`). That script only answers the page’s requests for cameras. It doesn’t read, collect, or change the page’s content, and Auteura doesn’t keep a record of the sites you visit.
+So that sites can see the virtual camera in their camera list, Auteura adds a small script to `https://` pages (and `localhost`). That script only answers the page’s requests for cameras. It doesn’t read, collect, or change the page’s content, and Auteura doesn’t keep a record of the sites you visit, beyond the session-only list of tabs using the camera (see below).
 
 ## What’s stored on your device
 
@@ -34,7 +34,7 @@ Removing the extension deletes all of it.
 
 ## Chrome Web Store user data policy
 
-Auteura’s use of information complies with the [Chrome Web Store User Data Policy](https://developer.chrome.com/docs/webstore/program-policies/user-data-faq), including the Limited Use requirements. Since Auteura collects no user data, it doesn’t sell, transfer, or use any for advertising, creditworthiness, or any purpose other than the extension’s single purpose.
+Auteura’s use of information complies with the [Chrome Web Store User Data Policy](https://developer.chrome.com/docs/webstore/program-policies/user-data-faq), including the Limited Use requirements. Since no user data leaves your device, Auteura doesn’t sell, transfer, or use any for advertising, creditworthiness, or any purpose other than the extension’s single purpose.
 
 ## Changes
 
