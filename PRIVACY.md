@@ -1,8 +1,8 @@
 # Auteura privacy policy
 
-*Effective October 11, 2026*
+*Effective October 12, 2026*
 
-This policy covers the Auteura Chrome extension. The short version: Auteura doesn’t send, sell, or share any of your data. Everything it does happens on your device.
+This policy covers the Auteura browser extension, from the Chrome Web Store and Microsoft Edge Add-ons. The short version: Auteura doesn’t send, sell, or share any of your data. Everything it does happens on your device.
 
 ## What leaves your device
 
@@ -22,13 +22,13 @@ So that sites can see the virtual camera in their camera list, Auteura adds a sm
 
 ## What’s stored on your device
 
-Auteura keeps these in Chrome’s extension storage, on your device only. They’re never sent anywhere.
+Auteura keeps these in the browser’s extension storage, on your device only. They’re never sent anywhere.
 
 - Your settings (framing, background, look, color, finish, and output size and frame rate).
 - `.cube` LUT files you import.
 - The names of your cameras and the settings they report, so the panel can show them.
 - The accent color you choose. The eyedropper reads only the one color you click.
-- While the browser is open: which tabs are using the virtual camera and their site names, for the “Live in …” indicator and the LIVE badge. This is cleared when Chrome closes.
+- While the browser is open: which tabs are using the virtual camera and their site names, for the “Live in …” indicator and the LIVE badge. This is cleared when the browser closes.
 
 Removing the extension deletes all of it.
 
