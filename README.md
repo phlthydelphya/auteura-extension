@@ -18,7 +18,7 @@ Changes apply to every site using the camera within a frame or two. **Open previ
 
 ## Install
 
-Install Auteura from the Chrome Web Store (the link will be here once the listing is live). It needs Chrome 116 or newer and no `chrome://flags`.
+Install Auteura from the [Chrome Web Store](https://chromewebstore.google.com/detail/auteura/ndkkjpajabmchdclajjjnjmkghjilidi). It needs Chrome 116 or newer and no `chrome://flags`.
 
 Pin the toolbar icon if you like; clicking it opens the controls in Chrome’s side panel.
 
